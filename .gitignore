@@ -133,3 +133,7 @@ dmypy.json
 # Data directories
 processed/
 raw/
+
+# File types
+*.csv
+*.xlsx
